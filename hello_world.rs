@@ -1,4 +1,5 @@
 fn main(){
-  let num ;
+  let num=5;
   println!("{}",num)
 }
+
